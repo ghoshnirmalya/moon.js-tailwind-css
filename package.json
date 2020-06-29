@@ -1,0 +1,30 @@
+{
+	"name": "introduction-to-moon",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "NODE_ENV=\"development\" webpack-dev-server --config webpack.config.js",
+		"build": "NODE_ENV=\"production\" webpack --config webpack.config.js"
+	},
+	"dependencies": {
+		"moon": "latest"
+	},
+	"devDependencies": {
+		"@babel/core": "latest",
+		"@babel/preset-env": "latest",
+		"babel-loader": "latest",
+		"clean-webpack-plugin": "latest",
+		"css-loader": "latest",
+		"file-loader": "latest",
+		"html-webpack-plugin": "latest",
+		"mini-css-extract-plugin": "latest",
+		"moon-compiler": "latest",
+		"moon-loader": "latest",
+		"optimize-css-assets-webpack-plugin": "latest",
+		"purgecss-webpack-plugin": "latest",
+		"terser-webpack-plugin": "latest",
+		"webpack": "latest",
+		"webpack-cli": "latest",
+		"webpack-dev-server": "latest"
+	}
+}
