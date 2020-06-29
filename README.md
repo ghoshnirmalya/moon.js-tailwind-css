@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6391763/82155151-64148380-9890-11ea-93b9-7ae5d52bd11a.png" alt="Logo"/>
+  <img src="https://user-images.githubusercontent.com/6391763/86044607-eedbc700-ba67-11ea-8b7d-d9ea9464cbac.png" alt="Logo"/>
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ From the project root, we can run the following command to start our Node.js pac
 yarn dev
 ```
 
-The above command will start the development server on [http://localhost:8080/](http://localhost:8080). Parcel will watch and hot reload if there are any changes to the code.
+The above command will start the development server on [http://localhost:8080/](http://localhost:8080). Webpack will watch and hot reload if there are any changes to the code.
 
 ## Building the application
 
